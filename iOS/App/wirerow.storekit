@@ -1,0 +1,42 @@
+{
+  "identifier": "storekit",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [
+    {
+      "id": "6000000000",
+      "localizations": [],
+      "name": "Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "6000000001",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Metal inventory tracker with remaining wire length by gauge",
+              "displayName": "Wire Row - Jewelry Wire Log Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.jewelrywirelog.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "wirerow_pro_monthly",
+          "subscriptionGroupID": "6000000000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
